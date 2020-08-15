@@ -9,7 +9,6 @@
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-
   align-items: center;
   color: var(--color-text-in-primary);
   padding: 1.6rem 0;
@@ -42,11 +41,11 @@
 }
 
 .page-header .header-content p {
-max-width: 30rem;
-font-size: 1.6rem;
-line-height: 2.6rem;
-color: var(--color-text-in-primary);
-margin-top: 2.4rem;
+  max-width: 30rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+  color: var(--color-text-in-primary);
+  margin-top: 2.4rem;
 }
 
 @media (min-width: 700px) {
