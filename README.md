@@ -1,5 +1,4 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/GusMartins499/nextlevelweek1.0)
-![GitHub last commit](https://img.shields.io/github/last-commit/GusMartins499/nextlevelweek1.0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/GusMartins499/nextlevelweek1.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
